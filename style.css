@@ -643,16 +643,3 @@ html {
     text-decoration: none;
     transition: 0.3s ease;
 }
-
-.localizacao:hover {
-    transform: scale(1.1);
-    opacity: 0.85;
-    box-shadow: 0 0 8px red;
-}
-
-
-.localizacao:hover {
-    transform: scale(1.1);
-    opacity: 0.85;
-    box-shadow: 0 0 8px #ff0000;
-}
